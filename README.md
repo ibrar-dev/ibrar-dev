@@ -48,13 +48,10 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/hassaantahirr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/m-ibrar) 
 || 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ht.developerr@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadibrar1.dev@gmail.com) 
 || 
-[![Skype](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/xBIqoJF6HKGD) 
-|| 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
  or give some ♥ on [mail](mailto:muhammadibrar1.dev@gmail.com) .
 
