@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I have 4+ years of hands-on experience in different client/server-side technologies and Restful Apis.
+- I have 6+ years of hands-on experience in multiple client/server-side technologies and Restful Apis.
 - I have been involved in large-scale software applications based on microservices and AWS services.
 - Skilled in Angular, Reactjs, Nodejs, Nestjs, Expressjs, MongoDB, MySql, Sequelize.
 - Proficient in using Git, GitHub/Bitbucket, and Jira.
